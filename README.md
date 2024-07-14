@@ -10,8 +10,7 @@ Online fashion shopping has become more and more popular in recent years. Conseq
 3. Online Measurement<br>
 </b>
 
-Open the [trial room](https://github.com/bislara/Virtual-Trial-Room/tree/master/Tryy-On)  folder for more details.
-
-Also we have worked on 3D vision and pose estimation using monocamera. For more details open the [Real-Time-Pose-Estimation](https://github.com/bislara/Virtual-Trial-Room/tree/master/Size-Fit/Real-Time-Action-Recognition-with-gui) folder. 
-
+Also we have worked on 3D vision and pose estimation using monocamera.
 We couldn't upload this to server as our storage requirements for models were more than 2.5GB and also we needed some powerful server, more than which was given in free suscription of AWS/Azure.
+
+For more details, check the files attached above.
