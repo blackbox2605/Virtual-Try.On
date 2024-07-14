@@ -1,5 +1,5 @@
-# Virtual-Trial-Room
-Hackathon organised by Myntra-Jabong
+# Virtual-Wardrobe-Try-On
+Hackathon organised by Myntra WeForShe
 
 ## [Link](https://nitrkl-team.000webhostapp.com/) to the Website.
 
@@ -15,7 +15,3 @@ Open the [trial room](https://github.com/bislara/Virtual-Trial-Room/tree/master/
 Also we have worked on 3D vision and pose estimation using monocamera. For more details open the [Real-Time-Pose-Estimation](https://github.com/bislara/Virtual-Trial-Room/tree/master/Size-Fit/Real-Time-Action-Recognition-with-gui) folder. 
 
 We couldn't upload this to server as our storage requirements for models were more than 2.5GB and also we needed some powerful server, more than which was given in free suscription of AWS/Azure.
-
-## License
-This project is licensed under the GNU General Public License v3.0 License - see the LICENSE.md file for details
-# Virtual-TryOn
