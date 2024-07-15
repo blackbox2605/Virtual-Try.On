@@ -13,4 +13,5 @@ Online fashion shopping has become more and more popular in recent years. Conseq
 Also we have worked on 3D vision and pose estimation using monocamera.
 We couldn't upload this to server as our storage requirements for models were more than 2.5GB and also we needed some powerful server, more than which was given in free suscription of AWS/Azure.
 
+run app.py to run this on localhost
 For more details, check the files attached above.
